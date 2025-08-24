@@ -1,0 +1,26 @@
+[
+  {
+    "display_name": "Lucide",
+    "path": "iconpacks/lucide.json"
+  },
+  {
+    "display_name": "Ming Cute Filled",
+    "path": "iconpacks/ming-cute-filled.json"
+  },
+  {
+    "display_name": "Ming Cute ",
+    "path": "iconpacks/ming-cute.json"
+  },
+  {
+    "display_name": "Phosphor",
+    "path": "iconpacks/ph.json"
+  },
+  {
+    "display_name": "Phosphor Light",
+    "path": "iconpacks/ph-light.json"
+  },
+  {
+    "display_name": "Tabler",
+    "path": "iconpacks/tabler.json"
+  }
+]
