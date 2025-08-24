@@ -21,11 +21,11 @@ Based on [2-browser-folder-cover](https://github.com/sebdelsol/KOReader.patches)
 <div style="display: flex; gap: 1em; text-align: center;">
   <div>
     <p>With rounded corners:</p>
-    <img src="img/with_rounded.png" style="width:70%; height:auto;">
+    <img src="img/with_rounded.png" style="width:30%; height:auto;">
   </div>
   <div>
     <p>Without rounded corners:</p>
-    <img src="img/without_rounded.png" style="width:70%; height:auto;">
+    <img src="img/without_rounded.png" style="width:30%; height:auto;">
   </div>
 </div>
 
